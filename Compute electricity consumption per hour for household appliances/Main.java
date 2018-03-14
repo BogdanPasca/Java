@@ -99,7 +99,7 @@ public class Main {
 
 
         System.out.println("\n ***********IRobotVAcuum600Series**********");
-        //de aici in jos este exemplu pentru IRobotVacuum600Series de pe platforma.
+       
 
         IRobotVacuum iRobot = new IRobotVacuum600Series("test");
         Appliance someVacuum = (Appliance) iRobot;
