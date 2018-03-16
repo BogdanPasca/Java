@@ -1,0 +1,16 @@
+Un program care primeste ca input o lista de angajati cu urmatoarele proprietati:
+ - nume angajatl;
+ - vechimea in companie;
+ - loc de parcare al angajatului (boolean)
+ 
+Angajatii din companie sunt organizati dupa roluri bine definite:
+ - junior web developer
+ - seniot web developer
+ - junior android developer
+ - senion android developer.
+
+ 
+ Programul ofera ca output o lista a angajatilor care nu detin locuri de parcare, 
+ ordonata dupa anii petrecuti in companie ai acestuia.
+
+
