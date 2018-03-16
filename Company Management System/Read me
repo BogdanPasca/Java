@@ -1,5 +1,5 @@
 Un program care primeste ca input o lista de angajati cu urmatoarele proprietati:
- - nume angajatl;
+ - nume angajat;
  - vechimea in companie;
  - loc de parcare al angajatului (boolean)
  
