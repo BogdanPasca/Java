@@ -1,0 +1,5 @@
+ Store some information about some persons: for one person, you need a list of his/her hobbies;
+
+-Name of hobby (String) – eq: cycling, swimming
+-Frequency (int) – how many times a week they practice it
+-List of Addresses where this hobby can be practiced (List<Adresa>)
