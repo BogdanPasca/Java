@@ -1,6 +1,7 @@
 This program is like a library system management. We have albums and novels. 
-- albums have <b> name  number of pages and paper quality  
+- albums have name  number of pages and paper quality  
 - novels have name  number of pages  and type (like mister, drama, romance etc). 
-- novels and albums are stored in an arrayList. We can add novels and books to the list, we can print/list them out individually or like total( albums + novels).
-  we can delete from the list a specific novel or album.
- - when we list them we can see all of their properties.
+- novels and albums are stored in an arrayList. 
+- we can add novels and books to the list, we can print/list them out individually or like total( albums + novels).
+- we can delete from the list a specific novel or album.
+- when we list them we can see all of their properties.
