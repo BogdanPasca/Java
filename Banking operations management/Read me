@@ -4,3 +4,13 @@
  *                  Sa retraga numerar
  *                  Sa afle tranzactia anterioara
  */
+Totul intr-un loop:
+
+   System.out.println("Bine ai venit " + numeClient + "!");
+        System.out.println("ID-ul tau este: " + idClient + ".");
+        System.out.println("\n");
+        System.out.println("1. Verificare sold.");
+        System.out.println("2. Depunere numerar.");
+        System.out.println("3. Retragere numerar.");
+        System.out.println("4. Tranzactia anterioara.");
+        System.out.println("5. Iesire.");
