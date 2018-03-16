@@ -1,0 +1,33 @@
+- acesta este un program care primeste ca input rezultatele sportivilor la proba de biatlon intr-un fisier de tip CSV.
+- datele sunt organizate in fisier sub forma:
+- numar_sportiv,nume_sportiv,tara_de_origine,timpul,[rezultat]   
+ - unde [rezultat] este format din x si o. 
+ x - nimereste tinta
+ o - rateaza tinta.
+ - pentru fiecare ratare (o) se adauga o penalizare de 10 secunde la timpul initial.
+ - OUTPUT-ul programului este un fisier in care ordoneaza toti sportivii dupa timpul final (timpul initial + penalizari)
+ 
+ !! - pentru ca programul sa mearga trebuie schimbata adresa/calea (path) fisierului "sportivi.txt" din "main"
+  private static final String FILENAME = "C:\\cale1\\cale2\\cale3\\sportivi.txt";
+    - tot in main trebuie schimbata si adresa/calea/path fisierului de output sportiviFinal.csv
+
+
+
+exemplu input:
+
+11,Umar Jorgson,SK,30:27,xxxox,xxxxx,xxoxo
+
+1,Jimmy Smiles,UK,29:15,xxoox,xooxo,xxxxo
+
+27,Piotr Smitzer,CZ,30:10,xxxxx,xxxxx,xxxxx
+
+exemplu output:
+Winner - Piotr Smitzer 30:10 (30:10 + 0)
+
+Runner-up - Jimmy Smiles 30:15 (29:15 + 60)
+
+Third Place - Umar Jorgson 30:57 (30:27 + 30)
+
+
+
+
