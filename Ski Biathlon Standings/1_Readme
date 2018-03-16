@@ -5,7 +5,7 @@
  x - nimereste tinta
  o - rateaza tinta.
  - pentru fiecare ratare (o) se adauga o penalizare de 10 secunde la timpul initial.
- - OUTPUT-ul programului este un fisier in care ordoneaza toti sportivii dupa timpul final (timpul initial + penalizari)
+ - OUTPUT-ul programului este un fisier care ordoneaza toti sportivii dupa timpul final (timpul initial + penalizari)
  
  !! - pentru ca programul sa mearga trebuie schimbata adresa/calea (path) fisierului "sportivi.txt" din "main"
   private static final String FILENAME = "C:\\cale1\\cale2\\cale3\\sportivi.txt";
