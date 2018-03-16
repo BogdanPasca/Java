@@ -1,0 +1,8 @@
+11,Umar Jorgson,SK,30:27,xxxox,xxxxx,xxoxo
+1,Jimmy Smiles,UK,29:15,xxoox,xooxo,xxxxo
+27,Piotr Smitzer,CZ,30:10,xxxxx,xxxxx,xxxxx
+100,Maria,CZ,30:57,xoxx,xoxxx,xxxxx
+2,Ioana,RO,20:12,xxxxx,xxxxo,xxxoo
+3,Marcel,RO,19:23,xxxxx,xxxxx,xxxxx
+234,Tomita,RO,34:24,xxooo,ooxxx,xxxoo
+40,Mariana,RO,20:32,xxxxx,xxxoo,xoxox
