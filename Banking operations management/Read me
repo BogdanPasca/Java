@@ -1,0 +1,6 @@
+/** Un program care simuleaza un ATM bancar.
+ * Clientul poate : Sa verifice soldul
+ *                  Sa depuna numerar
+ *                  Sa retraga numerar
+ *                  Sa afle tranzactia anterioara
+ */
