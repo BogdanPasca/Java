@@ -1,0 +1,23 @@
+- fiecare festival are o poarta;
+- exista 5 tipuri de bilet la festival : FULL, FULL_VIP, FREE_PASS, ONE_DAY, ONE_DAY_VIP;
+- oamenii intra la festival cumparand unul dintre cele 5 bilete. 
+
+Programul reprezinta fiecare persoana printr-un Thread instantiat cu un bilet random(dintre cele 5 valori).
+La fiecare 5 secunde un al doilea Thread "se trezeste" si citeste statisticile de pana atunci. (cate persoane au intrat la festival si tipul de bilete cumparat).
+Dupa ce au intrat toate persoane la festival (un nr generat random) programul afiseaza total persoane + total bilete cumparate.
+
+EXEMPLU output:
+
+
+1555 PEOPLE ENTERED!!
+
+298 people have FULL passes.
+315 people have ONE_DAY_VIP passes.
+303 people have FULL_VIP passes.
+319 people have FREE_PASS passes.
+320 people have ONE_DAY passes.
+
+
+
+ 
+
