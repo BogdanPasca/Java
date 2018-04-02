@@ -1,0 +1,5 @@
+Un program care simuleaza proprietatile unui automobil.
+Clasa Vehicul --> Masina --> Fabia
+Vehicul are metodele move(), steer() , stop() 
+Masina are metodele setTreaptaViteaza() si schimbaViteza()
+Fabia are metoa accelerare(), in functie de viteza la care accelereaza, se schimba automat si treptele de viteza.
