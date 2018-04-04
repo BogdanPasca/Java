@@ -1,5 +1,5 @@
 Cu ajutorul programului se pot selecta diferite tipuri de sandwich-uri, 
-anumite elemente aditionale care se pot adauga sandwich-ului si pretul
+anumite elemente aditionale care se pot adauga sandwich-ului si pretul.
 Exista un sandwich de baza, un "sandwich sanatos" si un "sandwich delue";
 Sandwich-ul de baza are : tipul painii, carne si cele 4 elemente aditionale(ex. rosie, salata, varza etc);
                           - cele 4 elemente se pot adauga la cererea clientului la un pret extra;
