@@ -1,0 +1,9 @@
+Un program care simuleaza o lista de cumparaturi.
+
+   0 - To print choice option.
+	 1 - To print the list of grocery items.
+	 2 - To add an item to the list. 
+	 3 - To modify an item in the list. 
+	 4 - To remove an item from the list
+	 5 - To search for an item in the list
+	 6 - To quit the application
