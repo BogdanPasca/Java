@@ -1,0 +1,16 @@
+Un program care simuleaza un telefon mobil.
+
+
+
+
+Starting phone... 
+
+Available actions. Press: 
+0 - to shut down
+1 - to print contacts
+2 - to add a new contact
+3 - to update an existing contact
+4 - to remove an existing contact
+5 - query if an existing contact exists
+6 - to print a list of available actions.
+Choose your action: 
