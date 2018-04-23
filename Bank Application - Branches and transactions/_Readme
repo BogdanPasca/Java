@@ -1,0 +1,36 @@
+- un program care simuleaza o aplicatie bancara;
+- exista o banca (clasa) care are mai multe filiale (arrayList of Branches);
+- filialele au un arrayList de clienti;
+- clientii au un arrayList de tranzactii (Doubles);
+- programul poate 
+                  - adauga clienti noi pentru fiecare filiala + tranzactiile aferente lor;
+                  - banca poate adauga filiale noi, poate adauga clienti diferitelor filiale + tranzactii; 
+                  - banca poate adauga tranzactii pentru un client existent;
+                  - banca poate printa o lista cu toti clientii unei anumite filiale si o lista optionala(boolean)
+                  cu tranzactiile lor;
+                  
+                  
+ Exemplu output:
+Clienti pentru filiala din Timisoara:
+Client: Bogdan[1]
+Tranzactii:
+[1] Suma: 750.05 lei.
+[2] Suma: 44.22 lei.
+Client: Vlad[2]
+Tranzactii:
+[1] Suma: 175.34 lei.
+Client: Diana[3]
+Tranzactii:
+[1] Suma: 220.12 lei.
+Client: Roxana[4]
+Tranzactii:
+[1] Suma: 100.0 lei.
+[2] Suma: 251.65 lei.
+=============================================
+Clienti pentru filiala din Arad:
+Client: Rares[1]
+Tranzactii:
+[1] Suma: 150.54 lei.
+
+Process finished with exit code 0
+
