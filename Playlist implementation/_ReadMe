@@ -1,0 +1,13 @@
+- un program care implementeaza un "playlist" pentru diferite melodii;
+- clasa Album contine o lista de melodii (nume, artist);
+- clasa Song contine titlul si durata melodiei;
+- diferite cantece din diferite albume se pot adauga "playlist"-ului;
+- cand playlist-ul este populat cu melodii, urmatoarele optiuni sunt valabile:
+                                                   
+                                                    0 - to quit
+                                                    1 - to play next song
+                                                    2 - to play previous song
+                                                    3 - to replay the current song
+                                                    4 - list songs in the playlist
+                                                    5 - print available acions.
+                                                    6 - delete current song from playlist.
