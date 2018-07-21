@@ -1,0 +1,8 @@
+Scenariu: este vorba despre un "It support administrator specialist" si sarcina lui este de a crea conturi de 
+email pentru cei noi angajati.
+Aplicatia realizeaza urmatoarele:
+- genereaza un email automat respectand urmatoarea sintaxa: firstname.lastname@department.company.ro;
+- determina departamentul (vanzari, development, contabilitate);
+- genereaza o parola automata (string);
+- are metode pentru a schimba parola, a seta capacitatea casutei de email, a defini sau schimba adrese de email;
+- are metode (getters) pentru a afisa numele, adresa de email si capacitatea casutei de email.
