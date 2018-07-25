@@ -1,0 +1,14 @@
+Un program care se ocupa cu realizarea inscrierilor studentilor la cursuri + situatia lor financiara.
+- userul este intrebat cati studenti noi trebuie introdusi in baza de date;
+- userul trebuie sa introduca numele, prenumele si anul pentru fiecare student;
+- studentul are un id unic format din 5 cifre (prima cifra este anul de studiu);
+- studentul se poate inscrie la urmatoarele cursuri:
+    Informatica economica,
+    Programarea calculatoarelor,
+    Programare web,
+    Java;
+- fiecare curs costa 600 lei;
+- studentul poate sa isi verifice situatia financiara si sa isi plateasca taxele;
+- programul afiseaza numele studentului, ID, cursurile la care este inscris si situatia financiar.
+
+    
